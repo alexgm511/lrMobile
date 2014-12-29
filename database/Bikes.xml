@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Bikes.xsd" generated="2014-10-20T17:32:13">
+<Bikes>
+<ID>1</ID>
+<Bike>LandRider Deluxe AutoShift</Bike>
+<Short_Description>The LandRider Deluxe delivers a comfortable, hassle-free ride with our patented 14 speed AutoShift, a dual suspension system and an upright frame design. Also features a comfort saddle with shock absorbing seat post, 2-inch all terrain tires, direct pull linear brakes and a lightweight frame in champagne color.</Short_Description>
+<Long_Description>&lt;img src=&quot;images/landrider/LandRider_01.gif&quot; alt=&quot;LandRider&quot; width=&quot;294&quot; height=&quot;50&quot; /&gt;&lt;p&gt;LandRider is a quality bicycle that regularly sells for $499.80. Through our special TV offer, you&apos;ll receive a $100 rebate direct from the manufacturer when you place your order!&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;images/products/women&apos;s-model-popup.jpg&quot; target=&quot;_blank&quot;&gt;Click 	here&lt;/a&gt; to view the women&apos;s step-through model.&lt;/p&gt;&lt;p&gt;And, if you place your order now, you&apos;ll also receive a $100 component upgrade -- &lt;strong&gt;absolutely FREE!&lt;/strong&gt; You&apos;ll receive the revolutionary new LandRider for just $399.80! The upgrade includes the following high performance components:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Fully adjustable alloy handlebars&lt;/li&gt;&lt;li&gt;Shimano front derailleur&lt;/li&gt;&lt;li&gt;Alloy pedal crank arms&lt;/li&gt;&lt;li&gt;Alloy suspension seat&lt;/li&gt;&lt;/ul&gt;</Long_Description>
+<Full_Payment>399.8</Full_Payment>
+<Lowest_Payment>99.95</Lowest_Payment>
+<Picture_Thumbnail>products/small_images/landrider.jpg</Picture_Thumbnail>
+<Picture_Small>Deluxe-1.png</Picture_Small>
+<Picture_Large>Deluxe-1.png</Picture_Large>
+<Shipping_Code>LRZ25</Shipping_Code>
+<Shipping_Code_Islands>LRZ26</Shipping_Code_Islands>
+<Shipping_Code_Canada>LRZ27</Shipping_Code_Canada>
+<Page>New</Page>
+<SortOrder>1</SortOrder>
+<Bike_Options>
+<ID>1</ID>
+<Bike_ID>1</Bike_ID>
+<Sex>M</Sex>
+<Sizes>12&quot;</Sizes>
+<Height>4&apos;8&quot; to 5&apos;2&quot;</Height>
+<Inseam>24&quot; to 26&quot;</Inseam>
+<SKU_1_Payment>LRD12ST-4MF</SKU_1_Payment>
+<SKU_1_Payment_Price>399.8</SKU_1_Payment_Price>
+<SKU_1_Payment_Desc>$399.80 + s/h - Single Payment</SKU_1_Payment_Desc>
+<SKU_1_Payment_Handling_Code>LRZFEX06</SKU_1_Payment_Handling_Code>
+<SKU_4_Payment>LRD12ST-4MP</SKU_4_Payment>
+<SKU_4_Payment_Price>99.95</SKU_4_Payment_Price>
+<SKU_4_Payment_Desc>$99.95 + s/h - 4 Monthly Payments</SKU_4_Payment_Desc>
+<SKU_4_Payment_Handling_Code>LRZFEX05</SKU_4_Payment_Handling_Code>
+<SKU_10_Payment_Price>39.98</SKU_10_Payment_Price>
+<SKU_10_Payment_Desc>$39.98 + s/h - 10 Monthly Payments</SKU_10_Payment_Desc>
+<SKU_10_Payment_Handling_Code>LRZFEX05</SKU_10_Payment_Handling_Code>
+<Picture_Cart>products/DeluxeStepThru_cart.jpg</Picture_Cart>
+<Active>Y</Active>
+</Bike_Options>
+<Bike_Options>
+<ID>2</ID>
+<Bike_ID>1</Bike_ID>
+<Sex>M</Sex>
+<Sizes>14&quot;</Sizes>
+<Height>5&apos;3&quot; to 5&apos;6&quot;</Height>
+<Inseam>27&quot; to 29&quot;</Inseam>
+<SKU_1_Payment>LRD14-F04MF</SKU_1_Payment>
+<SKU_1_Payment_Price>399.8</SKU_1_Payment_Price>
+<SKU_1_Payment_Desc>$399.80 + s/h - Single Payment</SKU_1_Payment_Desc>
+<SKU_1_Payment_Handling_Code>LRZFEX06</SKU_1_Payment_Handling_Code>
+<SKU_4_Payment>LRD14-F04MP</SKU_4_Payment>
+<SKU_4_Payment_Price>99.95</SKU_4_Payment_Price>
+<SKU_4_Payment_Desc>$99.95 + s/h - 4 Monthly Payments</SKU_4_Payment_Desc>
+<SKU_4_Payment_Handling_Code>LRZFEX05</SKU_4_Payment_Handling_Code>
+<SKU_10_Payment_Price>39.98</SKU_10_Payment_Price>
+<SKU_10_Payment_Desc>$39.98 + s/h - 10 Monthly Payments</SKU_10_Payment_Desc>
+<SKU_10_Payment_Handling_Code>LRZFEX05</SKU_10_Payment_Handling_Code>
+<Picture_Cart>products/Deluxe_cart.jpg</Picture_Cart>
+<Active>Y</Active>
+</Bike_Options>
+<Bike_Options>
+<ID>3</ID>
+<Bike_ID>1</Bike_ID>
+<Sex>M</Sex>
+<Sizes>17&quot;</Sizes>
+<Height>5&apos;7&quot; to 5&apos;11&quot;</Height>
+<Inseam>30&quot; to 32&quot;</Inseam>
+<SKU_1_Payment>LRD17-F04MF</SKU_1_Payment>
+<SKU_1_Payment_Price>399.8</SKU_1_Payment_Price>
+<SKU_1_Payment_Desc>$399.80 + s/h - Single Payment</SKU_1_Payment_Desc>
+<SKU_1_Payment_Handling_Code>LRZFEX06</SKU_1_Payment_Handling_Code>
+<SKU_4_Payment>LRD17-F04MP</SKU_4_Payment>
+<SKU_4_Payment_Price>99.95</SKU_4_Payment_Price>
+<SKU_4_Payment_Desc>$99.95 + s/h - 4 Monthly Payments</SKU_4_Payment_Desc>
+<SKU_4_Payment_Handling_Code>LRZFEX05</SKU_4_Payment_Handling_Code>
+<SKU_10_Payment_Price>39.98</SKU_10_Payment_Price>
+<SKU_10_Payment_Desc>$39.98 + s/h - 10 Monthly Payments</SKU_10_Payment_Desc>
+<SKU_10_Payment_Handling_Code>LRZFEX05</SKU_10_Payment_Handling_Code>
+<Picture_Cart>products/Deluxe_cart.jpg</Picture_Cart>
+<Active>Y</Active>
+</Bike_Options>
+<Bike_Options>
+<ID>4</ID>
+<Bike_ID>1</Bike_ID>
+<Sex>M</Sex>
+<Sizes>19.5&quot;</Sizes>
+<Height>6&apos;0&quot; to 6&apos;3&quot;</Height>
+<Inseam>33&quot; to 35&quot;</Inseam>
+<SKU_1_Payment>LRD19-F04MF</SKU_1_Payment>
+<SKU_1_Payment_Price>399.8</SKU_1_Payment_Price>
+<SKU_1_Payment_Desc>$399.80 + s/h - Single Payment</SKU_1_Payment_Desc>
+<SKU_1_Payment_Handling_Code>LRZFEX06</SKU_1_Payment_Handling_Code>
+<SKU_4_Payment>LRD19-F04MP</SKU_4_Payment>
+<SKU_4_Payment_Price>99.95</SKU_4_Payment_Price>
+<SKU_4_Payment_Desc>$99.95 + s/h - 4 Monthly Payments</SKU_4_Payment_Desc>
+<SKU_4_Payment_Handling_Code>LRZFEX05</SKU_4_Payment_Handling_Code>
+<SKU_10_Payment_Price>39.98</SKU_10_Payment_Price>
+<SKU_10_Payment_Desc>$39.98 + s/h - 10 Monthly Payments</SKU_10_Payment_Desc>
+<SKU_10_Payment_Handling_Code>LRZFEX05</SKU_10_Payment_Handling_Code>
+<Picture_Cart>products/Deluxe_cart.jpg</Picture_Cart>
+<Active>Y</Active>
+</Bike_Options>
+<Bike_Options>
+<ID>5</ID>
+<Bike_ID>1</Bike_ID>
+<Sex>M</Sex>
+<Sizes>22&quot;</Sizes>
+<Height>6&apos;4&quot; to 6&apos;8&quot;</Height>
+<Inseam>36&quot; plus</Inseam>
+<SKU_1_Payment>LRD22-F04MF</SKU_1_Payment>
+<SKU_1_Payment_Price>399.8</SKU_1_Payment_Price>
+<SKU_1_Payment_Desc>$399.80 + s/h - Single Payment</SKU_1_Payment_Desc>
+<SKU_1_Payment_Handling_Code>LRZFEX06</SKU_1_Payment_Handling_Code>
+<SKU_4_Payment>LRD22-F04MP</SKU_4_Payment>
+<SKU_4_Payment_Price>99.95</SKU_4_Payment_Price>
+<SKU_4_Payment_Desc>$99.95 + s/h - 4 Monthly Payments</SKU_4_Payment_Desc>
+<SKU_4_Payment_Handling_Code>LRZFEX05</SKU_4_Payment_Handling_Code>
+<SKU_10_Payment_Price>39.98</SKU_10_Payment_Price>
+<SKU_10_Payment_Desc>$39.98 + s/h - 10 Monthly Payments</SKU_10_Payment_Desc>
+<SKU_10_Payment_Handling_Code>LRZFEX05</SKU_10_Payment_Handling_Code>
+<Picture_Cart>products/Deluxe_cart.jpg</Picture_Cart>
+<Active>Y</Active>
+</Bike_Options>
+<Bike_Options>
+<ID>7</ID>
+<Bike_ID>1</Bike_ID>
+<Sex>F</Sex>
+<Sizes>12&quot;</Sizes>
+<Height>4&apos;8&quot; to 5&apos;2&quot;</Height>
+<Inseam>24&quot; to 29&quot;</Inseam>
+<SKU_1_Payment>LRD12ST-4WF</SKU_1_Payment>
+<SKU_1_Payment_Price>399.8</SKU_1_Payment_Price>
+<SKU_1_Payment_Desc>$399.80 + s/h - Single payment</SKU_1_Payment_Desc>
+<SKU_1_Payment_Handling_Code>LRZFEX06</SKU_1_Payment_Handling_Code>
+<SKU_4_Payment>LRD12ST-4WP</SKU_4_Payment>
+<SKU_4_Payment_Price>99.95</SKU_4_Payment_Price>
+<SKU_4_Payment_Desc>$99.95 + s/h - 4 Monthly Payments</SKU_4_Payment_Desc>
+<SKU_4_Payment_Handling_Code>LRZFEX05</SKU_4_Payment_Handling_Code>
+<SKU_10_Payment_Price>39.98</SKU_10_Payment_Price>
+<SKU_10_Payment_Desc>$39.98 + s/h - 10 Monthly Payments</SKU_10_Payment_Desc>
+<SKU_10_Payment_Handling_Code>LRZFEX05</SKU_10_Payment_Handling_Code>
+<Picture_Cart>products/DeluxeStepThru_cart.jpg</Picture_Cart>
+<Active>Y</Active>
+</Bike_Options>
+<Bike_Options>
+<ID>8</ID>
+<Bike_ID>1</Bike_ID>
+<Sex>F</Sex>
+<Sizes>15&quot;</Sizes>
+<Height>5&apos;3&quot; to 5&apos;8&quot;</Height>
+<Inseam>30&quot; to 31&quot;</Inseam>
+<SKU_1_Payment>LRD15ST-4WF</SKU_1_Payment>
+<SKU_1_Payment_Price>399.8</SKU_1_Payment_Price>
+<SKU_1_Payment_Desc>$399.80 + s/h - Single payment</SKU_1_Payment_Desc>
+<SKU_1_Payment_Handling_Code>LRZFEX06</SKU_1_Payment_Handling_Code>
+<SKU_4_Payment>LRD15ST-4WP</SKU_4_Payment>
+<SKU_4_Payment_Price>99.95</SKU_4_Payment_Price>
+<SKU_4_Payment_Desc>$99.95 + s/h - 4 Monthly Payments</SKU_4_Payment_Desc>
+<SKU_4_Payment_Handling_Code>LRZFEX05</SKU_4_Payment_Handling_Code>
+<SKU_10_Payment_Price>39.98</SKU_10_Payment_Price>
+<SKU_10_Payment_Desc>$39.98 + s/h - 10 Monthly Payments</SKU_10_Payment_Desc>
+<SKU_10_Payment_Handling_Code>LRZFEX05</SKU_10_Payment_Handling_Code>
+<Picture_Cart>products/DeluxeStepThru_cart.jpg</Picture_Cart>
+<Active>Y</Active>
+</Bike_Options>
+<Bike_Options>
+<ID>9</ID>
+<Bike_ID>1</Bike_ID>
+<Sex>F</Sex>
+<Sizes>17&quot;</Sizes>
+<Height>5&apos;9&quot; to 6&apos;1&quot;</Height>
+<Inseam>32&quot; to 35&quot;</Inseam>
+<SKU_1_Payment>LRD17-F04WF</SKU_1_Payment>
+<SKU_1_Payment_Price>399.8</SKU_1_Payment_Price>
+<SKU_1_Payment_Desc>$399.80 + s/h - Single payment</SKU_1_Payment_Desc>
+<SKU_1_Payment_Handling_Code>LRZFEX06</SKU_1_Payment_Handling_Code>
+<SKU_4_Payment>LRD17-F04WP</SKU_4_Payment>
+<SKU_4_Payment_Price>99.95</SKU_4_Payment_Price>
+<SKU_4_Payment_Desc>$99.95 + s/h - 4 Monthly Payments</SKU_4_Payment_Desc>
+<SKU_4_Payment_Handling_Code>LRZFEX05</SKU_4_Payment_Handling_Code>
+<SKU_10_Payment_Price>39.98</SKU_10_Payment_Price>
+<SKU_10_Payment_Desc>$39.98 + s/h - 10 Monthly Payments</SKU_10_Payment_Desc>
+<SKU_10_Payment_Handling_Code>LRZFEX05</SKU_10_Payment_Handling_Code>
+<Picture_Cart>products/WomansDeluxe_17_cart.jpg</Picture_Cart>
+<Active>Y</Active>
+</Bike_Options>
+</Bikes>
+
+<Bikes>
+<ID>4</ID>
+<Bike>LandRider Elite AutoShift</Bike>
+<Short_Description>Enjoy the comfortable, hassle-free ride of our patented 14 speed AutoShift and upright frame design in our high performance LandRider Elite. The 29 pound Elite features an alloy frame, forks and brakes, a gel seat with shock absorbing seat post, skin wall tires and a brushed natural aluminum finish. And included with every Elite is our popular Accessory Kit which includes a water bottle and holder, air pump and holder, a rear safety light and a halogen front headlight.</Short_Description>
+<Long_Description>&lt;img src=&quot;images/elite/Elite_01.gif&quot; alt=&quot;LandRider&quot; width=&quot;271&quot; height=&quot;50&quot; /&gt;&lt;p&gt;At just 29 pounds, the Elite is LandRider&apos;s top of the line. It delivers all of the excitement and comfort that the LandRider model has to offer in addition to several additional high-performance features that enhance its performance such as the all-alloy frame, pedals, handlebars and suspension forks.&lt;/p&gt;</Long_Description>
+<Full_Payment>699.8</Full_Payment>
+<Lowest_Payment>174.95</Lowest_Payment>
+<Picture_Thumbnail>products/small_images/landrider.jpg</Picture_Thumbnail>
+<Picture_Small>Elite-1.png</Picture_Small>
+<Picture_Large>Elite-1.png</Picture_Large>
+<Shipping_Code>LRZ25</Shipping_Code>
+<Shipping_Code_Islands>LRZ26</Shipping_Code_Islands>
+<Shipping_Code_Canada>LRZ27</Shipping_Code_Canada>
+<Page>New</Page>
+<SortOrder>2</SortOrder>
+<Bike_Options>
+<ID>14</ID>
+<Bike_ID>4</Bike_ID>
+<Sex>B</Sex>
+<Sizes>18&quot;</Sizes>
+<Height>5&apos;7&quot; to 6&apos;2&quot;</Height>
+<Inseam>31&quot; to 34&quot;</Inseam>
+<SKU_1_Payment>LRE18-T04MF</SKU_1_Payment>
+<SKU_1_Payment_Price>699.8</SKU_1_Payment_Price>
+<SKU_1_Payment_Desc>$699.80 + s/h - Single Payment</SKU_1_Payment_Desc>
+<SKU_1_Payment_Handling_Code>LRZFEX06</SKU_1_Payment_Handling_Code>
+<SKU_4_Payment>LRE18-T04MP</SKU_4_Payment>
+<SKU_4_Payment_Price>174.95</SKU_4_Payment_Price>
+<SKU_4_Payment_Desc>$174.95 + s/h - 4 Monthly Payments</SKU_4_Payment_Desc>
+<SKU_4_Payment_Handling_Code>LRZFEX05</SKU_4_Payment_Handling_Code>
+<SKU_10_Payment_Price>69.98</SKU_10_Payment_Price>
+<SKU_10_Payment_Desc>$69.98 + s/h - 10 Monthly Payments</SKU_10_Payment_Desc>
+<SKU_10_Payment_Handling_Code>LRZFEX05</SKU_10_Payment_Handling_Code>
+<Picture_Cart>products/Elite_cart.jpg</Picture_Cart>
+<Active>Y</Active>
+</Bike_Options>
+<Bike_Options>
+<ID>15</ID>
+<Bike_ID>4</Bike_ID>
+<Sex>B</Sex>
+<Sizes>22&quot;</Sizes>
+<Height>6&apos;3&quot; to 6&apos;8&quot;</Height>
+<Inseam>35&quot; plus</Inseam>
+<SKU_1_Payment>LRE22-T04MF</SKU_1_Payment>
+<SKU_1_Payment_Price>699.8</SKU_1_Payment_Price>
+<SKU_1_Payment_Desc>$699.80 + s/h - Single Payment</SKU_1_Payment_Desc>
+<SKU_1_Payment_Handling_Code>LRZFEX06</SKU_1_Payment_Handling_Code>
+<SKU_4_Payment>LRE22-T04MP</SKU_4_Payment>
+<SKU_4_Payment_Price>174.95</SKU_4_Payment_Price>
+<SKU_4_Payment_Desc>$174.95 + s/h - 4 Monthly Payments</SKU_4_Payment_Desc>
+<SKU_4_Payment_Handling_Code>LRZFEX05</SKU_4_Payment_Handling_Code>
+<SKU_10_Payment_Price>69.98</SKU_10_Payment_Price>
+<SKU_10_Payment_Desc>$69.98 + s/h - 10 Monthly Payments</SKU_10_Payment_Desc>
+<SKU_10_Payment_Handling_Code>LRZFEX05</SKU_10_Payment_Handling_Code>
+<Picture_Cart>products/Elite_cart.jpg</Picture_Cart>
+<Active>Y</Active>
+</Bike_Options>
+<Bike_Options>
+<ID>37</ID>
+<Bike_ID>4</Bike_ID>
+<Sex>B</Sex>
+<Sizes>14&quot;</Sizes>
+<Height>5&apos;2&quot; to 5&apos;6&quot;</Height>
+<Inseam>27&quot; to 30&quot;</Inseam>
+<SKU_1_Payment>LRE14-T04MF</SKU_1_Payment>
+<SKU_1_Payment_Price>699.8</SKU_1_Payment_Price>
+<SKU_1_Payment_Desc>$699.80 + s/h - Single Payment</SKU_1_Payment_Desc>
+<SKU_1_Payment_Handling_Code>LRZFEX06</SKU_1_Payment_Handling_Code>
+<SKU_4_Payment>LRE14-T04MP</SKU_4_Payment>
+<SKU_4_Payment_Price>174.95</SKU_4_Payment_Price>
+<SKU_4_Payment_Desc>$174.95 + s/h - 4 Monthly Payments</SKU_4_Payment_Desc>
+<SKU_4_Payment_Handling_Code>LRZFEX05</SKU_4_Payment_Handling_Code>
+<SKU_10_Payment_Price>69.98</SKU_10_Payment_Price>
+<SKU_10_Payment_Desc>$69.98 + s/h - 10 Monthly Payments</SKU_10_Payment_Desc>
+<SKU_10_Payment_Handling_Code>LRZFEX05</SKU_10_Payment_Handling_Code>
+<Picture_Cart>products/Elite_cart.jpg</Picture_Cart>
+<Active>Y</Active>
+</Bike_Options>
+</Bikes>
+
+<Bikes>
+<ID>5</ID>
+<Bike>LandRider Comfort Road</Bike>
+<Short_Description>Our top of the line high performance road bike was built for comfort. Features 24 speed Shimano shifting system with ergonomically designed shift levers incorporated into the brake levers, top mount in-line brake levers, fully adjustable drop handlebars, a unique suspension seat post with a wider more comfortable saddle. The tires are center ridge mounted on light double wall aluminum alloy rims. Available in four sizes.</Short_Description>
+<Long_Description>&lt;img src=&quot;images/comfort_road/Comfort_Road_01.gif&quot; alt=&quot;LandRider Comfort Road&quot; width=&quot;276&quot; height=&quot;50&quot; /&gt;&lt;p&gt;Features an upright riding position, 24 speed Shimano shifting system with an ergonomically designed shift lever incorporated into the brake lever, top mount in-line brake levers, fully adjustable drop handlebars, a unique suspension seat post with a wider more comfortable saddle and center ridge tires mounted on light double wall rustproof aluminum alloy rims. Available in four sizes.&lt;/p&gt;</Long_Description>
+<Full_Payment>699.8</Full_Payment>
+<Lowest_Payment>174.95</Lowest_Payment>
+<Picture_Thumbnail>products/small_images/landrider.jpg</Picture_Thumbnail>
+<Picture_Small>Comfort_Road_01.jpg</Picture_Small>
+<Picture_Large>Comfort_Road_01.jpg</Picture_Large>
+<Shipping_Code>LRZ25</Shipping_Code>
+<Shipping_Code_Islands>LRZ26</Shipping_Code_Islands>
+<Shipping_Code_Canada>LRZ27</Shipping_Code_Canada>
+<Page>Specials</Page>
+<SortOrder>1</SortOrder>
+<Bike_Options>
+<ID>16</ID>
+<Bike_ID>5</Bike_ID>
+<Sex>B</Sex>
+<Sizes>14&quot;</Sizes>
+<Height>5&apos;3&quot; to 5&apos;6&quot;</Height>
+<Inseam>27&quot; to 29&quot;</Inseam>
+<SKU_1_Payment>CR14-F04UF</SKU_1_Payment>
+<SKU_1_Payment_Price>699.8</SKU_1_Payment_Price>
+<SKU_1_Payment_Desc>$699.80 + s/h - Single Payment</SKU_1_Payment_Desc>
+<SKU_1_Payment_Handling_Code>LRZFEX06</SKU_1_Payment_Handling_Code>
+<SKU_4_Payment>CR14-F04UP</SKU_4_Payment>
+<SKU_4_Payment_Price>174.95</SKU_4_Payment_Price>
+<SKU_4_Payment_Desc>$174.95 + s/h - 4 Monthly Payments</SKU_4_Payment_Desc>
+<SKU_4_Payment_Handling_Code>LRZFEX05</SKU_4_Payment_Handling_Code>
+<SKU_10_Payment_Price>69.98</SKU_10_Payment_Price>
+<SKU_10_Payment_Desc>$69.98 + s/h - 10 Monthly Payments</SKU_10_Payment_Desc>
+<SKU_10_Payment_Handling_Code>LRZFEX05</SKU_10_Payment_Handling_Code>
+<Picture_Cart>products/ComfortRoad_cart.jpg</Picture_Cart>
+<Active>Y</Active>
+</Bike_Options>
+<Bike_Options>
+<ID>17</ID>
+<Bike_ID>5</Bike_ID>
+<Sex>B</Sex>
+<Sizes>17&quot;</Sizes>
+<Height>5&apos;7&quot; to 5&apos;11&quot;</Height>
+<Inseam>30&quot; to 32&quot;</Inseam>
+<SKU_1_Payment>CR17-F04UF</SKU_1_Payment>
+<SKU_1_Payment_Price>699.8</SKU_1_Payment_Price>
+<SKU_1_Payment_Desc>$699.80 + s/h - Single Payment</SKU_1_Payment_Desc>
+<SKU_1_Payment_Handling_Code>LRZFEX06</SKU_1_Payment_Handling_Code>
+<SKU_4_Payment>CR17-F04UP</SKU_4_Payment>
+<SKU_4_Payment_Price>174.95</SKU_4_Payment_Price>
+<SKU_4_Payment_Desc>$174.95 + s/h - 4 Monthly Payments</SKU_4_Payment_Desc>
+<SKU_4_Payment_Handling_Code>LRZFEX05</SKU_4_Payment_Handling_Code>
+<SKU_10_Payment_Price>69.98</SKU_10_Payment_Price>
+<SKU_10_Payment_Desc>$69.98 + s/h - 10 Monthly Payments</SKU_10_Payment_Desc>
+<SKU_10_Payment_Handling_Code>LRZFEX05</SKU_10_Payment_Handling_Code>
+<Picture_Cart>products/ComfortRoad_cart.jpg</Picture_Cart>
+<Active>Y</Active>
+</Bike_Options>
+<Bike_Options>
+<ID>18</ID>
+<Bike_ID>5</Bike_ID>
+<Sex>B</Sex>
+<Sizes>19.5&quot;</Sizes>
+<Height>6&apos;0&quot; to 6&apos;3&quot;</Height>
+<Inseam>33&quot; to 35&quot;</Inseam>
+<SKU_1_Payment>CR19-F04UF</SKU_1_Payment>
+<SKU_1_Payment_Price>699.8</SKU_1_Payment_Price>
+<SKU_1_Payment_Desc>$699.80 + s/h - Single Payment</SKU_1_Payment_Desc>
+<SKU_1_Payment_Handling_Code>LRZFEX06</SKU_1_Payment_Handling_Code>
+<SKU_4_Payment>CR19-F04UP</SKU_4_Payment>
+<SKU_4_Payment_Price>174.95</SKU_4_Payment_Price>
+<SKU_4_Payment_Desc>$174.95 + s/h - 4 Monthly Payments</SKU_4_Payment_Desc>
+<SKU_4_Payment_Handling_Code>LRZFEX05</SKU_4_Payment_Handling_Code>
+<SKU_10_Payment_Price>69.98</SKU_10_Payment_Price>
+<SKU_10_Payment_Desc>$69.98 + s/h - 10 Monthly Payments</SKU_10_Payment_Desc>
+<SKU_10_Payment_Handling_Code>LRZFEX05</SKU_10_Payment_Handling_Code>
+<Picture_Cart>products/ComfortRoad_cart.jpg</Picture_Cart>
+<Active>Y</Active>
+</Bike_Options>
+<Bike_Options>
+<ID>19</ID>
+<Bike_ID>5</Bike_ID>
+<Sex>B</Sex>
+<Sizes>22&quot;</Sizes>
+<Height>6&apos;4&quot; to 6&apos;8&quot;</Height>
+<Inseam>36&quot; plus</Inseam>
+<SKU_1_Payment>CR22-F04UF</SKU_1_Payment>
+<SKU_1_Payment_Price>699.8</SKU_1_Payment_Price>
+<SKU_1_Payment_Desc>$699.80 + s/h - Single Payment</SKU_1_Payment_Desc>
+<SKU_1_Payment_Handling_Code>LRZFEX06</SKU_1_Payment_Handling_Code>
+<SKU_4_Payment>CR22-F04UP</SKU_4_Payment>
+<SKU_4_Payment_Price>174.95</SKU_4_Payment_Price>
+<SKU_4_Payment_Desc>$174.95 + s/h - 4 Monthly Payments</SKU_4_Payment_Desc>
+<SKU_4_Payment_Handling_Code>LRZFEX05</SKU_4_Payment_Handling_Code>
+<SKU_10_Payment_Price>69.98</SKU_10_Payment_Price>
+<SKU_10_Payment_Desc>$69.98 + s/h - 10 Monthly Payments</SKU_10_Payment_Desc>
+<SKU_10_Payment_Handling_Code>LRZFEX05</SKU_10_Payment_Handling_Code>
+<Picture_Cart>products/ComfortRoad_cart.jpg</Picture_Cart>
+<Active>Y</Active>
+</Bike_Options>
+</Bikes>
+<Bikes>
+<ID>6</ID>
+<Bike>LandRider Hybrid Series</Bike>
+<Short_Description>Going to work or leisurely rides, our Hybrid Series features a dual suspension system with a comfort saddle on a shock absorbing seat post. All the great features of the AutoShift models but with a 14 speed Shimano manual shifting system. The Hybrid also features direct pull linear brakes and a lightweight, champagne finish frame. Available in four sizes.</Short_Description>
+<Long_Description>&lt;img src=&quot;images/hybrid_series/Hybrid_series_01.gif&quot; alt=&quot;LandRider&quot; width=&quot;262&quot; height=&quot;50&quot; /&gt;&lt;p&gt;On city biking, bike trails, commutes to work or leisurely rides, our Hybrid Series features a dual suspension system with front shocks, adjustable front handlebar, and a comfort saddle with a shock absorbing seat post.  The Hybrid model has the same great features as the AutoShift bicycles, except that it has a 14 speed Shimano manual transmission. The Hybrid also includes center-ridge tires, direct pull linear brakes and a lightweight, champagne finish aluminum frame. Available in four sizes, the 12 and 15 inch sizes come in the the step-through frame. &lt;a href=&quot;images/hybrid_series/hybrid_stepthru_02.jpg&quot; target=&quot;_blank&quot;&gt;Click here to view the step-through model.&lt;/a&gt;&lt;/p&gt;</Long_Description>
+<Full_Payment>299.8</Full_Payment>
+<Lowest_Payment>74.95</Lowest_Payment>
+<Picture_Thumbnail>products/small_images/landrider.jpg</Picture_Thumbnail>
+<Picture_Small>Hybrid_01.jpg</Picture_Small>
+<Picture_Large>Hybrid_01.jpg</Picture_Large>
+<Shipping_Code>LRZ25</Shipping_Code>
+<Shipping_Code_Islands>LRZ26</Shipping_Code_Islands>
+<Shipping_Code_Canada>LRZ27</Shipping_Code_Canada>
+<Page>Specials</Page>
+<SortOrder>2</SortOrder>
+<Bike_Options>
+<ID>20</ID>
+<Bike_ID>6</Bike_ID>
+<Sex>B</Sex>
+<Sizes>12&quot;</Sizes>
+<Height>4&apos;8&quot; to 5&apos;2&quot;</Height>
+<Inseam>24&quot; to 29&quot;</Inseam>
+<SKU_1_Payment>HS12-F04UF</SKU_1_Payment>
+<SKU_1_Payment_Price>299.8</SKU_1_Payment_Price>
+<SKU_1_Payment_Desc>$299.80 + s/h - Single Payment</SKU_1_Payment_Desc>
+<SKU_1_Payment_Handling_Code>LRZFEX06</SKU_1_Payment_Handling_Code>
+<SKU_4_Payment>HS12-F04UP</SKU_4_Payment>
+<SKU_4_Payment_Price>74.95</SKU_4_Payment_Price>
+<SKU_4_Payment_Desc>$74.95 + s/h - 4 Monthly Payments</SKU_4_Payment_Desc>
+<SKU_4_Payment_Handling_Code>LRZFEX05</SKU_4_Payment_Handling_Code>
+<SKU_10_Payment_Price>29.98</SKU_10_Payment_Price>
+<SKU_10_Payment_Desc>$29.98 + s/h - 10 Monthly Payments</SKU_10_Payment_Desc>
+<SKU_10_Payment_Handling_Code>LRZFEX05</SKU_10_Payment_Handling_Code>
+<Picture_Cart>products/HybridStepThru_cart.jpg</Picture_Cart>
+<Active>Y</Active>
+</Bike_Options>
+<Bike_Options>
+<ID>21</ID>
+<Bike_ID>6</Bike_ID>
+<Sex>B</Sex>
+<Sizes>15&quot;</Sizes>
+<Height>5&apos;3&quot; to 5&apos;8&quot;</Height>
+<Inseam>30&quot; to 31&quot;</Inseam>
+<SKU_1_Payment>HS15-F04UF</SKU_1_Payment>
+<SKU_1_Payment_Price>299.8</SKU_1_Payment_Price>
+<SKU_1_Payment_Desc>$299.80 + s/h - Single Payment</SKU_1_Payment_Desc>
+<SKU_1_Payment_Handling_Code>LRZFEX06</SKU_1_Payment_Handling_Code>
+<SKU_4_Payment>HS15-F04UP</SKU_4_Payment>
+<SKU_4_Payment_Price>74.95</SKU_4_Payment_Price>
+<SKU_4_Payment_Desc>$74.95 + s/h - 4 Monthly Payments</SKU_4_Payment_Desc>
+<SKU_4_Payment_Handling_Code>LRZFEX05</SKU_4_Payment_Handling_Code>
+<SKU_10_Payment_Price>29.98</SKU_10_Payment_Price>
+<SKU_10_Payment_Desc>$29.98 + s/h - 10 Monthly Payments</SKU_10_Payment_Desc>
+<SKU_10_Payment_Handling_Code>LRZFEX05</SKU_10_Payment_Handling_Code>
+<Picture_Cart>products/HybridStepThru_cart.jpg</Picture_Cart>
+<Active>Y</Active>
+</Bike_Options>
+<Bike_Options>
+<ID>22</ID>
+<Bike_ID>6</Bike_ID>
+<Sex>B</Sex>
+<Sizes>18&quot;</Sizes>
+<Height>5&apos;9&quot; to 6&apos;1&quot;</Height>
+<Inseam>32&quot; to 34&quot;</Inseam>
+<SKU_1_Payment>HS18-F04UF</SKU_1_Payment>
+<SKU_1_Payment_Price>299.8</SKU_1_Payment_Price>
+<SKU_1_Payment_Desc>$299.80 + s/h - Single Payment</SKU_1_Payment_Desc>
+<SKU_1_Payment_Handling_Code>LRZFEX06</SKU_1_Payment_Handling_Code>
+<SKU_4_Payment>HS18-F04UP</SKU_4_Payment>
+<SKU_4_Payment_Price>74.95</SKU_4_Payment_Price>
+<SKU_4_Payment_Desc>$74.95 + s/h - 4 Monthly Payments</SKU_4_Payment_Desc>
+<SKU_4_Payment_Handling_Code>LRZFEX05</SKU_4_Payment_Handling_Code>
+<SKU_10_Payment_Price>29.98</SKU_10_Payment_Price>
+<SKU_10_Payment_Desc>$29.98 + s/h - 10 Monthly Payments</SKU_10_Payment_Desc>
+<SKU_10_Payment_Handling_Code>LRZFEX05</SKU_10_Payment_Handling_Code>
+<Picture_Cart>products/LR-Hybrid_cart.jpg</Picture_Cart>
+<Active>Y</Active>
+</Bike_Options>
+<Bike_Options>
+<ID>23</ID>
+<Bike_ID>6</Bike_ID>
+<Sex>B</Sex>
+<Sizes>21&quot;</Sizes>
+<Height>6&apos;2&quot; to 6&apos;8&quot;</Height>
+<Inseam>35&quot; plus</Inseam>
+<SKU_1_Payment>HS21-F04UF</SKU_1_Payment>
+<SKU_1_Payment_Price>299.8</SKU_1_Payment_Price>
+<SKU_1_Payment_Desc>$299.80 + s/h - Single Payment</SKU_1_Payment_Desc>
+<SKU_1_Payment_Handling_Code>LRZFEX06</SKU_1_Payment_Handling_Code>
+<SKU_4_Payment>HS21-F04UP</SKU_4_Payment>
+<SKU_4_Payment_Price>74.95</SKU_4_Payment_Price>
+<SKU_4_Payment_Desc>$74.95 + s/h - 4 Monthly Payments</SKU_4_Payment_Desc>
+<SKU_4_Payment_Handling_Code>LRZFEX05</SKU_4_Payment_Handling_Code>
+<SKU_10_Payment_Price>29.98</SKU_10_Payment_Price>
+<SKU_10_Payment_Desc>$29.98 + s/h - 10 Monthly Payments</SKU_10_Payment_Desc>
+<SKU_10_Payment_Handling_Code>LRZFEX05</SKU_10_Payment_Handling_Code>
+<Picture_Cart>products/LR-Hybrid_cart.jpg</Picture_Cart>
+<Active>Y</Active>
+</Bike_Options>
+</Bikes>
+</dataroot>

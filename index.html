@@ -1,0 +1,110 @@
+<!doctype html>
+<html>
+<head>
+	<title>LandRider Comfort Bicycle</title> 
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="jquery-mobile/jquery.mobile.structure-1.4.4.min.css" rel="stylesheet" type="text/css" />
+	<link href="jquery-mobile/jquery.mobile.theme-1.4.4.min.css" rel="stylesheet" type="text/css" />
+	<link href="jquery-mobile/jquery.mobile.icons-1.4.4.min.css" rel="stylesheet" type="text/css" />
+    <!-- -->
+    <script type="text/javascript" src="jquery-mobile/jquery-1.11.1.min.js"></script>
+	<script type="text/javascript" src="jquery-mobile/jquery.mobile-1.4.4.min.js"></script>
+	<script type="text/javascript" src="scripts/jsrender.min.js"></script>
+    <script type="text/javascript" src="scripts/LRmobile.js"></script>
+    <style type='text/css'>
+    <!--
+        html { background-color: #333; }
+        @media only screen and (min-width: 600px){
+            .ui-page {
+                width: 580px !important;
+                margin: 0 auto !important;
+                position: relative !important;
+                border-right: 5px #666 outset !important;
+                border-left: 5px #666 outset !important;
+            }
+        }
+    -->
+    </style>
+
+</head> 
+<body> 
+
+<div data-role="page" id="home">
+
+	<div data-role="header" data-theme="a">
+		<h1><img src="images/lr_text_logo.png" width="100%" style="max-width:185px" alt="LandRider"></h1>
+	</div><!-- /header -->
+
+	<div data-role="content" data-theme="a">
+    <img src="images/LR-Intro500.jpg"  width="100%" />
+    <div data-role="collapsible-set" data-theme="a" data-content-theme="a" data-iconpos="right">
+        <div data-role="collapsible">
+            <h3>Discover AutoShift&trade;</h3>
+             <p>LandRider is the only bicycle to offer the patented AutoShift&trade; and combined with an ergonomic upright riding position it allows you to enjoy the scenery and avoid back pain and discomfort. Our fully adjustable frames are made of lightweight and durable materials and our double suspension system and comfort seats offer a smooth and more enjoyable ride.</p>
+             <p><img src="images/comfortDetails.jpg" alt="AutoShift, double suspension, comfort seat and adjustable hadlebars" width="100%" /></p>
+             <a href="features.html" class="ui-btn ui-mini ui-corner-all" data-theme="c">Explore all the features.</a>
+        </div>
+    </div>
+    <ul data-role="listview" data-inset="true">
+      <li><a href="#products">Our Bikes & Accessories</a></li>
+      <li><a href="features.html">Features</a></li>
+      <li><a href="faq.html">FAQ</a></li>
+      <li><a href="contact.html" data-rel="dialog">Contact Us</a></li>
+      <li><a href="cart.html">Shopping Cart</a></li>
+    </ul>	
+    <div hidden="true" id="cartData"></div>
+     <!-- a href="#" id="storage" data-role="button" data-rel="back" data-theme="c">Get all Items in Storage</a -->    
+
+	</div><!-- /content -->
+
+	<div data-role="footer" data-theme="a">
+		<h4 style="font-size:smaller">&copy; LandRider 2014</h4>
+	</div><!-- /footer -->
+</div><!-- /page -->
+
+<!-- Start of Products page -->
+<div data-role="page" id="products">
+
+	<div data-role="header" data-theme="a">
+		<h1>LandRider Products</h1>
+    		<a href="#home" data-icon="home"class="ui-btn-right">Home</a>
+	</div><!-- /header -->
+
+	<div data-role="content" data-theme="c">
+    <ul data-role="listview" data-inset="true">
+      <li><a href="deluxe-m.html">Mens Deluxe AutoShift</a></li>
+      <li><a href="deluxe-ws.html">Womens Small Deluxe AutoShift</a></li>
+      <li><a href="deluxe-wl.html">Womens Large Deluxe AutoShift</a></li>
+      <li><a href="#accessory">Bike Accessories</a></li>
+    </ul>
+	</div><!-- /content -->
+
+	<div data-role="footer" data-theme="a">
+		<h4 style="font-size:smaller">&copy; LandRider 2014</h4>
+	</div><!-- /footer -->
+</div><!-- /page -->
+
+<!-- Start of Accessory page -->
+<div data-role="page" id="accessory">
+
+	<div data-role="header" data-theme="a">
+		<h1>LandRider Accessories</h1>
+    		<a href="#home" data-icon="home"class="ui-btn-right">Home</a>
+	</div><!-- /header -->
+
+	<div data-role="content" data-theme="c">
+    <ul data-role="listview" data-inset="true">
+      <li><a href="rack.html">LandRider Rear Rack</a></li>
+      <li><a href="accKit.html">Accessory Kit</a></li>
+      <li><a href="pump.html">Alloy Floor Pump</a></li>
+      <li><a href="computer.html">Cyclo-computer</a></li>
+    </ul>
+	</div><!-- /content -->
+
+	<div data-role="footer" data-theme="a">
+		<h4 style="font-size:smaller">&copy; LandRider 2014</h4>
+	</div><!-- /footer -->
+</div><!-- /page -->
+
+</body>
+</html>
